@@ -15,6 +15,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
 ![mockup720](https://github.com/sarcastiAbhay/My_Portfolio/blob/main/aas.png)
+<img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img>
 ![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
 <h2>📬 Contact</h2>
 
@@ -23,7 +24,7 @@ If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/abhay2419"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2022 Abhay Kuma
+© 2023 Abhay Kumar
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
